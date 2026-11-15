@@ -1,38 +1,29 @@
-# Hi there! I'm Timofey (Buvy) 👋 
+# Hi, I'm Timofey 👋
 
-### Backend Developer | Software Engineering Student
+Software engineering student. I'm learning backend
+development with JavaScript and Node.js and working towards my first
+internship.
 
-I am a backend engineer focused on building robust architectures, clean system logic, and efficient data structures. My coding philosophy revolves around finding solid structure and creating reliable "engines" for applications. The more complex the logic and the clearer the roadmap, the better I perform.
+## What I'm doing now
 
----
+- Studying JavaScript fundamentals, then TypeScript and Node.js
+- Taking a Node.js pre-training course (JS/TS, React, Express, NestJS,
+  SQL, Docker)
+- Building **Life Tracker**: a web app for tasks,
+  habits and goals with gamification
 
-### 🛠 Tech Stack & Tools
+## Skills
 
-* **Languages:** Python (Core, OOP, Advanced Logic)
-* **Databases:** SQL (SQLite, MS SQL Server, PostgreSQL)
-* **Tools & OS:** Git, Bash, Linux, Docker (Basics)
-* **Core Focus:** System architecture, process automation, database optimization
+- **Learning:** JavaScript, TypeScript, Node.js
+- **Basics:** Python (scripts), HTML, Git
+- **Studied earlier:** C#
 
----
+## How I work
 
-### 🚀 Projects & Active Work
+I like to understand how things work under the hood, not just make them
+run. I enjoy structured logic and automation.
 
-* **Life Tracker:** Developing a digital productivity platform focused on goal tracking and personal optimization.
-* **Automation Automation:** Creating custom Python scripts for workflow optimization and document generation.
-* **CRM Systems:** Engineering account and schedule management systems for educational and practical tasks.
+## Contact
 
----
-
-### 🧩 About Me
-
-* **Mindset:** Engineer-executor. I thrive on building "under the hood" systems and solid backend logic.
-* **Interests:** Big fan of complex automation and optimization systems
-* **Guiding Principle:** Consistency and deep focus. I believe in well-structured development rhythms.
-
----
-
-### 📫 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/timofey-buinevich](https://www.linkedin.com/in/timofey-buinevich-04baaa365/)
-* **X:** [@buvy_dev](https://x.com/buvy_dev)
-* **Discord:** `buvy_dev`
+- LinkedIn: [timofey-buinevich](https://www.linkedin.com/in/timofey-buinevich-04baaa365/)
+- Email: buinevich.dev@gmail.com
