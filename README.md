@@ -26,4 +26,3 @@ run. I enjoy structured logic and automation.
 ## Contact
 
 - LinkedIn: [timofey-buinevich](https://www.linkedin.com/in/timofey-buinevich-04baaa365/)
-- Email: buinevich.dev@gmail.com
